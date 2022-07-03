@@ -1,10 +1,14 @@
 p{
     background-color: slateblue;
+    padding: 15px;
 }
 h1{
     text-align: center;
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 15px;
 }
 #padma{
     color: rgb(253, 253, 253);
-    padding: auto;
 }
