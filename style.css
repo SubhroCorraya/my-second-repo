@@ -4,3 +4,8 @@ p{
 h1{
     text-align: center;
 }
+#padma{
+    color: rgb(253, 253, 253);
+    padding: auto;
+    border-radius: 25%;
+}
